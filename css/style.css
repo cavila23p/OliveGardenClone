@@ -329,10 +329,17 @@ img {
   }
 }
 
-@media only screen and (max-width: 767px){
+@media only screen and (max-width: 768px){
 
   .links {
     text-align: center;
+  }
+}
+
+@media only screen and (max-width: 568px){
+
+  .deliver {
+    margin: 0px;
   }
 }
 
